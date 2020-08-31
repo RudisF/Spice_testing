@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <produktu-saraksts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <record>
-<manufacturer><![CDATA[Rudolfs-test]]></manufacturer>
+<manufacturer><![CDATA[VP laboratory]]></manufacturer>
 <name_of_store><![CDATA[Rudolfs-test]]></name_of_store>
 <sku><![CDATA[VP60010603]]></sku>
 <name><![CDATA[Fish Oil]]></name>
